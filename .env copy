@@ -1,0 +1,7 @@
+
+# PostgreSQL
+PGHOST="localhost"
+PGPORT=5432
+PGUSER="postgres"
+PGPASSWORD="your_password"
+PGDATABASE="grpc_crud"
